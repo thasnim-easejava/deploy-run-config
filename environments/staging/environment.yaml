@@ -4,8 +4,14 @@
 version: 1.0
 app:
   # build id to deploy. if 'version' is commented out, the application is not deployed
-  version: ""
-  
+  maven_config: |
+    #  version: ""
+    #  Maven artifact coordinates
+    maven:
+      groupId: net.wasdev.wlp.sample
+      artifactId: ferret
+      version: "1.1"
+      type: war
   # number of instances
   instances:
     # min number of instances. can be 0 for scale to 0. default to 1.

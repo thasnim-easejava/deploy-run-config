@@ -16,6 +16,7 @@ app:
     artifactId: ""
     version: ""
     type: "war"
+    
   # version: ""
 
   

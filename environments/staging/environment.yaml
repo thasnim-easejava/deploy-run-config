@@ -12,10 +12,10 @@ app:
   # Set the Maven coordinates of the Maven artifact to deploy for the 
   # "Deploy, and run" scenario.
   maven:
-    groupId: ""
-    artifactId: ""
-    version: ""
-    type: ""
+    groupId: "net.wasdev.wlp.sample"
+    artifactId: "ferret"
+    version: "1.2"
+    type: "war"
     
   # version: ""
 

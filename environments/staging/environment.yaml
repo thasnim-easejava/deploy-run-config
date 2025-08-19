@@ -18,6 +18,7 @@ app:
     type: "war"
     
   # version: ""
+  
 
   
   # Set minimum and maximum number of instances of the application. 

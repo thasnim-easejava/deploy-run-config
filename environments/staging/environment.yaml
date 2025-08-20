@@ -14,7 +14,7 @@ app:
   maven:
     groupId: "net.wasdev.wlp.sample"
     artifactId: "ferret"
-    version: ""
+    version: "1.2"
     type: "war"
     
   # version: ""
